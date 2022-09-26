@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "peashooter.arreferenceimage"
+    },
+    {
+      "filename" : "potatomine.arreferenceimage"
+    },
+    {
+      "filename" : "repeater.arreferenceimage"
+    },
+    {
+      "filename" : "snowpea.arreferenceimage"
+    },
+    {
+      "filename" : "splitpea.arreferenceimage"
+    },
+    {
+      "filename" : "sunflower.arreferenceimage"
+    },
+    {
+      "filename" : "wallnut.arreferenceimage"
+    }
+  ]
+}
